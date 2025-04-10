@@ -1,0 +1,12 @@
+# Rust
+rust/target
+rust/debug
+**/*.rs.bk
+*.pdb
+
+# Godot
+godot/.godot
+godot/.import
+godot/export.cfg
+godot/export_credentials.cfg
+*.translation
